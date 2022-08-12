@@ -31,7 +31,7 @@ header{
     margin-top: 15px;
 }
 
-.butonlar{
+.buttons{
     display: flex;
     width: 500px;
     margin-top: 20px;
@@ -71,14 +71,16 @@ header{
 
 /* main bölümü section 1 */
 
-.uyelik{
+.sign_up{
     background-color: #0d0c0ceb;
     height: 100px;
     display: flex;
     position: sticky;
     top: 20px;
 }
-.butonlar2{display: flex;}
+.buttons2{
+    display: flex;
+}
 
  .isim input{
     background-color: white;
